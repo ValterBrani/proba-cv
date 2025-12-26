@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "CV — Alex Dupont (démo)"
 permalink: /cv/
@@ -13,7 +13,7 @@ links:
   - type: phone
     url: "tel:0000000000"
 summary: "Architecte logiciel / tech lead .NET spécialisé en modernisation cloud, CI/CD et pratiques de qualité (TDD/DDD) — profil de démonstration."
----
+--- -->
 
 # Alex Dupont (démo)
 
